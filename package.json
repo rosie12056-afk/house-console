@@ -1,6 +1,6 @@
 {
   "name": "house-console",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "description": "A read-only operational console for House Runtime.",
   "type": "module",
   "license": "AGPL-3.0-only",
@@ -24,8 +24,8 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@vitejs/plugin-react": "^4.7.0",
-    "house-runtime": "github:rosie12056-afk/house-runtime#v0.3.0-rc.2",
-    "house-toolkit": "github:rosie12056-afk/house-toolkit#v0.3.0-rc.3",
+    "house-runtime": "github:rosie12056-afk/house-runtime#v0.3.0-rc.3",
+    "house-toolkit": "github:rosie12056-afk/house-toolkit#v0.3.0-rc.4",
     "jsdom": "^26.1.0",
     "vite": "^6.1.0",
     "vitest": "^3.2.4"

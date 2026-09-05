@@ -1,5 +1,7 @@
 # House Console
 
+Maintenance release `0.1.0-alpha.2` preserves the existing maturity and document profiles. See [CHANGELOG.md](CHANGELOG.md) for dependency changes and consumer lockfile guidance.
+
 House Console is an experimental, read-only operational client for House Runtime. It makes durable Runs, Evidence, Initiatives, memory records, and lifecycle records visible without importing a private House instance.
 
 The alpha uses the transport-neutral Runtime API from House Protocols `v0.3.0-rc.2` and the authenticated read surface in House Runtime `v0.3.0-rc.2`.
